@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1149A3AD-F98D-4F50-A8D2-7384300E3A65"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "312C6D1D-88B3-4534-8EFB-3D82A38A1F24"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "22_01_24_NavigationDemoPrDelegate/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "passStudentData(student:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7AC5F3D9-233D-4A1F-B671-272D493F7B42"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "22_01_24_NavigationDemoPrDelegate/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "btnNext(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2A7A27F-E569-4C8F-A15E-FCE93C646454"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "22_01_24_NavigationDemoPrDelegate/SecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "btnBack(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E2A7A27F-E569-4C8F-A15E-FCE93C646454 - 46c9b67784322039"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_2_01_24_NavigationDemoPrDelegate.SecondViewController.btnBack(Any) -&gt; ()"
+                  moduleName = "22_01_24_NavigationDemoPrDelegate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishaljagtap/Desktop/Aishwarya/iOS_March_2023/22_01_24_NavigationDemoPrDelegate/22_01_24_NavigationDemoPrDelegate/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "E2A7A27F-E569-4C8F-A15E-FCE93C646454 - 46c9b67784322039"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_2_01_24_NavigationDemoPrDelegate.SecondViewController.btnBack(Any) -&gt; ()"
+                  moduleName = "22_01_24_NavigationDemoPrDelegate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishaljagtap/Desktop/Aishwarya/iOS_March_2023/22_01_24_NavigationDemoPrDelegate/22_01_24_NavigationDemoPrDelegate/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
